@@ -1,8 +1,8 @@
 😎 Olá, meu nome é Felipe Lamas!
 
-Trabalho na área de tecnologia desde os 11 anos, comecei em LanHouses e hoje sou FieldService na Stefanini.
+Trabalho na área de tecnologia desde os 11 anos, comecei em Lan-Houses e hoje sou FieldService na Stefanini.
 
-No momento estou cursando Análise e Desenvolvimento de Sistemas estou no quarto periodo, em paralelo estou realizando alguns bootcamps e estudando inglês
+No momento estou cursando Análise e Desenvolvimento de Sistemas, estou no quarto período, em paralelo estou realizando alguns bootcamps e estudando inglês
 
 🔭 No momento estou desenvolvendo como freelance uma página web responsiva para divulgação politica.
 
